@@ -1,6 +1,6 @@
 <template>
   <div id="app">
-    <tutorial-header />
+   <TutorialHeader />
     <cv-content id="#main-content">
   <router-view />
 </cv-content>
