@@ -702,6 +702,7 @@
   dependencies:
     "@carbon/icon-helpers" "10.3.0"
 
+<<<<<<< HEAD
 "@carbon/import-once@^10.3.0":
   version "10.3.0"
   resolved "https://registry.yarnpkg.com/@carbon/import-once/-/import-once-10.3.0.tgz#58617da4efb6d7a11352d8e6b7209da1d39f364d"
@@ -720,6 +721,16 @@
     "@carbon/icons-vue" "10.8.0"
     carbon-components "10.9.0"
     flatpickr "4.6.3"
+=======
+"@carbon/vue@^2.12.0":
+  version "2.12.0"
+  resolved "https://registry.yarnpkg.com/@carbon/vue/-/vue-2.12.0.tgz#7c17c4ebd48919e1f28bf9f0d17974e8a78589f7"
+  integrity sha512-UhtQZltByEWShbjs2VVi3LX+rFRE196BqEv6V93rEqwfLq2HuwcUDIkmcn//O/Qefzv3YswOO7DXMmTtM0ejKg==
+  dependencies:
+    "@carbon/icons-vue" "10.3.0"
+    carbon-components "10.3.1"
+    flatpickr "4.6.1"
+>>>>>>> 924f01afd7533cd0136b97ad7175d5c72e258701
     vue "^2.6.10"
 
 "@hapi/address@2.x.x":
